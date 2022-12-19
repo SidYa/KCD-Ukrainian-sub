@@ -1,0 +1,14 @@
+<Table>
+<Row><Cell>hero_stat_kills</Cell><Cell>Ворогів убито</Cell></Row>
+<Row><Cell>hero_stat_max_level</Cell><Cell>Досягнуто рівня</Cell></Row>
+<Row><Cell>hero_stat_money</Cell><Cell>Грошей зібрано</Cell></Row>
+<Row><Cell>hero_stat_playtime</Cell><Cell>Загальний час в грі</Cell></Row>
+<Row><Cell>rich_presence_initial</Cell><Cell>Початкові відомості про присутність</Cell></Row>
+<Row><Cell>rich_presence_main_quest_started</Cell><Cell>Виконується завдання %s</Cell></Row>
+<Row><Cell>rich_presence_skill_level_up</Cell><Cell>Новий рівень навички (%s)</Cell></Row>
+<Row><Cell>rich_presence_stat_level_up</Cell><Cell>Новий рівень риси (%s)</Cell></Row>
+<Row><Cell>xbox_rp_level_up_skill</Cell><Cell>Рівень навички — ( {0} )</Cell></Row>
+<Row><Cell>xbox_rp_level_up_stat</Cell><Cell>Рівень риси — ({0}) — зараз не використовується</Cell></Row>
+<Row><Cell>xbox_rp_playing_game</Cell><Cell>Граю в цю гру</Cell></Row>
+<Row><Cell>xbox_rp_playing_quest</Cell><Cell>Виконується завдання {0}</Cell></Row>
+</Table>
